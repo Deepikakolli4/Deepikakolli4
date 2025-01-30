@@ -13,15 +13,15 @@ I’m **Deepika Kolli**, a third-year **B.Tech student in Information Technology
 - 🔭 Exploring innovative approaches to build efficient systems and software solutions.  
 - 🌱 Continuously improving my programming techniques and collaborative development skills.  
 - 👯 Open to collaborating on exciting **open-source projects** and innovative ideas.  
-
 ### 🏅 Badges
-<div align="right">
-    ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2024-brightgreen?style=flat&logo=github)
-    ![GirlScript Summer of Code](https://img.shields.io/badge/GirlScript_Summer_of_Code-2024-blue?style=flat&logo=github)
-    ![Open Source](https://img.shields.io/badge/Open_Source-Active-blue?style=flat&logo=github)
-    ![Java](https://img.shields.io/badge/Java-Advanced-red?style=flat&logo=java)
-    ![Python](https://img.shields.io/badge/Python-Intermediate-blue?style=flat&logo=python)
+<div style="text-align: right;">
+    <img src="https://img.shields.io/badge/Hacktoberfest-2024-brightgreen?style=flat&logo=github" alt="Hacktoberfest" />
+    <img src="https://img.shields.io/badge/GirlScript_Summer_of_Code-2024-blue?style=flat&logo=github" alt="GirlScript Summer of Code" />
+    <img src="https://img.shields.io/badge/Open_Source-Active-blue?style=flat&logo=github" alt="Open Source" />
+    <img src="https://img.shields.io/badge/Java-Advanced-red?style=flat&logo=java" alt="Java" />
+    <img src="https://img.shields.io/badge/Python-Intermediate-blue?style=flat&logo=python" alt="Python" />
 </div>
+
 
 ### 💡 Let’s Connect  
 💬 I’d love to discuss programming, open-source contributions, or innovative ideas. Collaboration excites me!  
