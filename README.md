@@ -19,13 +19,13 @@ I’m **Deepika Kolli**, a third-year **B.Tech student in Information Technology
         <img src="https://img.shields.io/badge/Hacktoberfest-2024-brightgreen?style=flat&logo=github" alt="Hacktoberfest Level1" />
     </a>
     <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm24q1blq424740cld02jqy41d">
-        <img src="https://img.shields.io/badge/GirlScript_Summer_of_Code-2024-blue?style=flat&logo=github" alt="Hacktoberfest Level2" />
+        <img src="https://img.shields.io/badge/Hacktoberfest-2024-blue?style=flat&logo=github" alt="Hacktoberfest Level2" />
     </a>
     <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm24q28ut109760cl43ain3y4v">
-        <img src="https://img.shields.io/badge/Open_Source-Active-blue?style=flat&logo=github" alt="Hacktoberfest Level3" />
+        <img src="https://img.shields.io/badge/Hacktoberfest-2024-blue?style=flat&logo=github" alt="Hacktoberfest Level3" />
     </a>
     <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm24q28rz109690cl48s5cits1">
-        <img src="https://img.shields.io/badge/Java-Advanced-red?style=flat&logo=java" alt="Hacktoberfest Level4" />
+        <img src="https://img.shields.io/badge/Hacktoberfest-2024-red?style=flat&logo=java" alt="Hacktoberfest Level4" />
     </a>
 </div>
 
