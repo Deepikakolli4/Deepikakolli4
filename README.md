@@ -15,12 +15,12 @@ I’m **Deepika Kolli**, a third-year **B.Tech student in Information Technology
 - 👯 Open to collaborating on exciting **open-source projects** and innovative ideas.  
 ### 🏅 Badges
 <div style="text-align: right;">
-    <img src="https://img.shields.io/badge/Hacktoberfest-2024-brightgreen?style=flat&logo=github" alt="Hacktoberfest" />
-    <img src="https://img.shields.io/badge/GirlScript_Summer_of_Code-2024-blue?style=flat&logo=github" alt="GirlScript Summer of Code" />
-    <img src="https://img.shields.io/badge/Open_Source-Active-blue?style=flat&logo=github" alt="Open Source" />
-    <img src="https://img.shields.io/badge/Java-Advanced-red?style=flat&logo=java" alt="Java" />
-    <img src="https://img.shields.io/badge/Python-Intermediate-blue?style=flat&logo=python" alt="Python" />
+    <img src="https://img.shields.io/badge/Hacktoberfest-2024-brightgreen?style=flat&logo=github" alt="Hacktoberfest Level1" />
+    <img src="https://img.shields.io/badge/GirlScript_Summer_of_Code-2024-blue?style=flat&logo=github" alt="Hacktoberfest Level2" />
+    <img src="https://img.shields.io/badge/Open_Source-Active-blue?style=flat&logo=github" alt="Hacktoberfest Level3" />
+    <img src="https://img.shields.io/badge/Java-Advanced-red?style=flat&logo=java" alt="Hacktoberfest Level4" />
 </div>
+
 
 
 ### 💡 Let’s Connect  
