@@ -1,44 +1,36 @@
-## Hi there 👋 Welcome to my GitHub profile!  
+<h1 align="center">Hi 👋, I'm Deepika Kolli</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-I’m **Deepika Kolli**, a third-year **B.Tech student in Information Technology** with a passion for technology, problem-solving, and collaboration. My journey revolves around exploring innovative solutions, contributing to impactful projects, and fostering a culture of growth and learning in the tech community.  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepikakolli4&label=Profile%20views&color=0e75b6&style=flat" alt="deepikakolli4" /> </p>
 
-### 🌟 About Me  
-- 👩‍💻 **Tech Enthusiast:** Skilled in **Java, C++, C, and Python**, with hands-on experience in tools like Git, and CI/CD pipelines. I enjoy applying my programming knowledge to create efficient solutions and streamline workflows.  
+- 🔭 I’m currently working on [FlavourFleet](https://github.com/Deepikakolli4/FlavourFleet)
 
-- 🚀 **Open Source Advocate:** As the **Vice President of OpenForge**, my college’s open-source club, I lead initiatives to mentor peers, organize coding events, and inspire others to contribute to impactful projects. In **2024**, I proudly participated in **Hacktoberfest** and **GirlScript Summer of Code**, making valuable contributions to open-source projects, collaborating with global communities, and gaining hands-on development experience.  
+- 🌱 I’m currently learning **WebDevelopment**
 
-- 🎓 **Lifelong Learner:** Always eager to learn new technologies, enhance my problem-solving skills, and stay updated with the latest trends in software development.  
+- 👨‍💻 All of my projects are available at [https://deepikakolli4.github.io/DeepikaKolli/](https://deepikakolli4.github.io/DeepikaKolli/)
 
-### 🔍 What I’m Up To  
-- 🔭 Exploring innovative approaches to build efficient systems and software solutions.  
-- 🌱 Continuously improving my programming techniques and collaborative development skills.  
-- 👯 Open to collaborating on exciting **open-source projects** and innovative ideas.  
-### 🏅 Badges
-<div style="text-align: right;">
-    <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm2206e4s26370cmmbbu7iag0">
-        <img src="https://img.shields.io/badge/Hacktoberfest-2024-brightgreen?style=flat&logo=github" alt="Hacktoberfest Level1" />
-    </a>
-    <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm24q1blq424740cld02jqy41d">
-        <img src="https://img.shields.io/badge/Hacktoberfest-2024-blue?style=flat&logo=github" alt="Hacktoberfest Level2" />
-    </a>
-    <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm24q28ut109760cl43ain3y4v">
-        <img src="https://img.shields.io/badge/Hacktoberfest-2024-blue?style=flat&logo=github" alt="Hacktoberfest Level3" />
-    </a>
-    <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm24q28rz109690cl48s5cits1">
-        <img src="https://img.shields.io/badge/Hacktoberfest-2024-red?style=flat&logo=java" alt="Hacktoberfest Level4" />
-    </a>
-</div>
+- 📝 I regularly write articles on [https://medium.com/@kollideepika4](https://medium.com/@kollideepika4)
 
+- 💬 Ask me about **react**
 
+- 📫 How to reach me **deepikakolli2004@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1RnMxjc89pxw_0eC71UOkkHiKQGAfppjG/view?usp=drive_link](https://drive.google.com/file/d/1RnMxjc89pxw_0eC71UOkkHiKQGAfppjG/view?usp=drive_link)
 
-### 💡 Let’s Connect  
-💬 I’d love to discuss programming, open-source contributions, or innovative ideas. Collaboration excites me!  
+- ⚡ Fun fact **A One Bug can make me sit Whole Day**
 
-📫 Connect with me:
-- **[Portfolio](https://deepikakolli4.github.io/DeepikaKolli/):** Visit my portfolio to learn more about my work and projects.    
-- **[LinkedIn](https://www.linkedin.com/in/deepikakolli4/):** Let’s connect professionally!  
-- **[GitHub](https://github.com/Deepikakolli4):** Explore my contributions.  
-- **[Blog](https://medium.com/@kollideepika4):** Check out my tutorials for helpful insights.  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/deepikakolli4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepikakolli4" height="30" width="40" /></a>
+<a href="https://medium.com/@kollideepika4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kollideepika4" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kollideepika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kollideepika" height="30" width="40" /></a>
+</p>
 
-⚡ **Fun Fact:** When I’m not coding, I love mentoring peers and brainstorming ways to make technology more accessible. Let’s create something amazing together! 🚀  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepikakolli4&show_icons=true&locale=en&layout=compact" alt="deepikakolli4" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepikakolli4&show_icons=true&locale=en" alt="deepikakolli4" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepikakolli4&" alt="deepikakolli4" /></p>
