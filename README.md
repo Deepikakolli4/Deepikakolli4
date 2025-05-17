@@ -1,36 +1,94 @@
-<h1 align="center">Hi 👋, I'm Deepika Kolli</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- Styling (Some may not fully work on GitHub Pages, but will on personal portfolio or custom site) -->
+<style>
+  .typing {
+    font-family: monospace;
+    overflow: hidden;
+    white-space: nowrap;
+    border-right: 2px solid pink;
+    animation: typing 3s steps(30, end), blink .75s step-end infinite;
+  }
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepikakolli4&label=Profile%20views&color=0e75b6&style=flat" alt="deepikakolli4" /> </p>
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
 
-- 🔭 I’m currently working on [FlavourFleet](https://github.com/Deepikakolli4/FlavourFleet)
+  @keyframes blink {
+    from, to { border-color: transparent }
+    50% { border-color: pink }
+  }
+</style>
 
-- 🌱 I’m currently learning **WebDevelopment**
+<h1 align="center" style="color:pink;">Hi 👋, I'm Deepika Kolli</h1>
+<h3 align="center" class="typing" style="color:white;">A passionate Frontend Developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://deepikakolli4.github.io/DeepikaKolli/](https://deepikakolli4.github.io/DeepikaKolli/)
+---
 
-- 📝 I regularly write articles on [https://medium.com/@kollideepika4](https://medium.com/@kollideepika4)
+### 🌟 Profile Stats
 
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **deepikakolli2004@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RnMxjc89pxw_0eC71UOkkHiKQGAfppjG/view?usp=drive_link](https://drive.google.com/file/d/1RnMxjc89pxw_0eC71UOkkHiKQGAfppjG/view?usp=drive_link)
-
-- ⚡ Fun fact **A One Bug can make me sit Whole Day**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/deepikakolli4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepikakolli4" height="30" width="40" /></a>
-<a href="https://medium.com/@kollideepika4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kollideepika4" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kollideepika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kollideepika" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deepikakolli4&label=Profile%20views&color=ff69b4&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepikakolli4&show_icons=true&locale=en&layout=compact" alt="deepikakolli4" /></p>
+### 🚀 Current Work and Goals
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepikakolli4&show_icons=true&locale=en" alt="deepikakolli4" /></p>
+- 🔭 I’m currently working on: [**FlavourFleet**](https://github.com/Deepikakolli4/FlavourFleet)
+- 🌱 Currently learning: **Full Stack Web Development**
+- 👩‍💻 Portfolio: [deepikakolli4.github.io/DeepikaKolli](https://deepikakolli4.github.io/DeepikaKolli/)
+- 📝 Writing on: [Medium @kollideepika4](https://medium.com/@kollideepika4)
+- 💬 Ask me about: **React, JavaScript, CSS**
+- 📫 Reach me at: **deepikakolli2004@gmail.com**
+- 📄 [View My Resume](https://drive.google.com/file/d/1RnMxjc89pxw_0eC71UOkkHiKQGAfppjG/view?usp=drive_link)
+- ⚡ Fun fact: *A single bug can keep me glued to the screen all day!*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepikakolli4&" alt="deepikakolli4" /></p>
+---
+
+### 📬 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/deepikakolli4" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Deepika%20Kolli-pink?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@kollideepika4" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Blogs-pink?logo=medium&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/kollideepika" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-DeepikaKolli-pink?logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Java-pink?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-pink?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-pink?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-pink?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express-pink?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-pink?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-pink?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-pink?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-pink?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-pink?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-pink?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-pink?style=flat&logo=docker&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepikakolli4&show_icons=true&theme=tokyonight&title_color=ff69b4&icon_color=ff69b4" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepikakolli4&layout=compact&theme=tokyonight&title_color=ff69b4" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=deepikakolli4&theme=tokyonight&ring=ff69b4&fire=ff69b4" />
+</p>
+
+---
+
