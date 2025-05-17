@@ -1,11 +1,8 @@
 <img src="https://drive.google.com/uc?export=view&id=1MkTurFGfzZ6wWupKYGsTJ4rjhYLvC3Jq" alt="MasterHead" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Deepika Kolli</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-add Right Gif Image
+<h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepikakolli4&label=Profile%20views&color=0e75b6&style=flat" alt="deepikakolli4" /> </p>
 
 - 🔭 I’m currently working on [FlavourFleet](https://github.com/Deepikakolli4/FlavourFleet)
 
