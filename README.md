@@ -1,23 +1,4 @@
-<!-- Styling (Some may not fully work on GitHub Pages, but will on personal portfolio or custom site) -->
-<style>
-  .typing {
-    font-family: monospace;
-    overflow: hidden;
-    white-space: nowrap;
-    border-right: 2px solid pink;
-    animation: typing 3s steps(30, end), blink .75s step-end infinite;
-  }
 
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
-
-  @keyframes blink {
-    from, to { border-color: transparent }
-    50% { border-color: pink }
-  }
-</style>
 
 <h1 align="center" style="color:pink;">Hi 👋, I'm Deepika Kolli</h1>
 <h3 align="center" class="typing" style="color:white;">A passionate Frontend Developer from India</h3>
