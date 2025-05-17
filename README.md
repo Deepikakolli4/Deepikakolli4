@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **WebDevelopment**
 
-- 👨‍💻 All of my projects are available at [My Work]((https://deepikakolli4.github.io/My_Projects/))
+- 👨‍💻 All of my projects are available at [My Work](https://deepikakolli4.github.io/My_Projects/)
 
 - 📝 I regularly write articles on [https://medium.com/@kollideepika4](https://medium.com/@kollideepika4)
 
 - 📫 How to reach me **deepikakolli2004@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RnMxjc89pxw_0eC71UOkkHiKQGAfppjG/view?usp=drive_link](https://drive.google.com/file/d/1RnMxjc89pxw_0eC71UOkkHiKQGAfppjG/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RnMxjc89pxw_0eC71UOkkHiKQGAfppjG/view?usp=drive_link)
 
 - ⚡ Fun fact **A One Bug can make me sit Whole Day**
 
