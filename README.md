@@ -4,19 +4,19 @@
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
-- 🔭 I’m currently working on [FlavourFleet](https://github.com/Deepikakolli4/FlavourFleet)
+🔭 I’m currently working on [FlavourFleet](https://github.com/Deepikakolli4/FlavourFleet)
 
-- 🌱 I’m currently learning **WebDevelopment**
+🌱 I’m currently learning **WebDevelopment**
 
-- 👨‍💻 All of my projects are available at [My Work](https://deepikakolli4.github.io/My_Projects/)
+👨‍💻 All of my projects are available at [My Work](https://deepikakolli4.github.io/My_Projects/)
 
-- 📝 I regularly write articles on [https://medium.com/@kollideepika4](https://medium.com/@kollideepika4)
+📝 I regularly write articles on [https://medium.com/@kollideepika4](https://medium.com/@kollideepika4)
 
-- 📫 How to reach me **deepikakolli2004@gmail.com**
+📫 How to reach me **deepikakolli2004@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RnMxjc89pxw_0eC71UOkkHiKQGAfppjG/view?usp=drive_link)
+📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RnMxjc89pxw_0eC71UOkkHiKQGAfppjG/view?usp=drive_link)
 
-- ⚡ Fun fact **A One Bug can make me sit Whole Day**
+⚡ Fun fact **A One Bug can make me sit Whole Day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
