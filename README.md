@@ -16,7 +16,7 @@
 
 🤗 Know about my experiences [Resume](https://drive.google.com/file/d/1RnMxjc89pxw_0eC71UOkkHiKQGAfppjG/view?usp=drive_link)
 
-🫶🏻 Fun fact **A One Bug can make me sit Whole Day**
+🫶 Fun fact **A One Bug can make me sit Whole Day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
