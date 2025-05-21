@@ -27,7 +27,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,react,nodejs,expressjs,html,css,tailwindcss,bootstrap,js,mongodb,mysql,github,canva,figma,vscode,canva)](https://github.com/deepikakolli4) <br>
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,react,nodejs,expressjs,html,css,tailwindcss,bootstrap,js,mongodb,mysql,github,canva,figma,vscode,canva)](https://github.com/Deepikakolli4) <br>
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepikakolli4&show_icons=true&locale=en&layout=compact" alt="deepikakolli4" /></p>
