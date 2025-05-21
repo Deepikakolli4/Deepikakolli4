@@ -34,7 +34,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=deepikakolli4&show_icons=true&theme=radical" alt="Deepika Kolli's GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepikakolli4&show_icons=true&locale=en&layout=compact&theme=radical" alt="Deepika Kolli's Top Languages" />
 </p>
 
