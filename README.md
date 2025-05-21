@@ -30,7 +30,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,react,nodejs,expressjs,html,css,tailwindcss,bootstrap,js,mongodb,mysql,github,canva,figma,vscode,canva)](https://github.com/Deepikakolli4) <br>
 <br>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=deepikakolli4&show_icons=true&theme=radical" alt="Deepika Kolli's GitHub Stats" />
 </p>
 
