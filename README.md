@@ -35,8 +35,5 @@
   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=deepikakolli4&show_icons=true&locale=en&layout=compact&theme=radical" alt="Deepika Kolli's Top Languages" />
 </p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepikakolli4&show_icons=true&locale=en&theme=radical" alt="deepikakolli4" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepikakolli4&" alt="deepikakolli4" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepikakolli4&theme=radical" alt="deepikakolli4" /></p>
 
