@@ -31,8 +31,15 @@
 <br>
 
 <p align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=deepikakolli4&show_icons=true&theme=radical" height="800" width="800" alt="Deepika Kolli's GitHub stats" />
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=deepikakolli4&show_icons=true&locale=en&layout=compact&theme=radical" alt="Deepika Kolli's Top Languages" />
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepikakolli4&theme=radical" alt="deepikakolli4" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=deepikakolli4&show_icons=true&theme=radical" alt="Deepika Kolli's GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepikakolli4&show_icons=true&locale=en&layout=compact&theme=radical" alt="Deepika Kolli's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepikakolli4&theme=radical" alt="Deepika Kolli's GitHub Streak" />
+</p>
+
 
