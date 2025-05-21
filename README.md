@@ -31,7 +31,7 @@
 <br>
 
 <p align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=deepikakolli4&show_icons=true&theme=radical" height="30" width="40" alt="Deepika Kolli's GitHub stats" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=deepikakolli4&show_icons=true&theme=radical" height="150" width="150" alt="Deepika Kolli's GitHub stats" />
   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=deepikakolli4&show_icons=true&locale=en&layout=compact&theme=radical" alt="Deepika Kolli's Top Languages" />
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepikakolli4&theme=radical" alt="deepikakolli4" /></p>
 </p>
