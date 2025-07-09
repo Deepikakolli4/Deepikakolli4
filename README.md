@@ -14,7 +14,7 @@
 
 📫 How to reach me **deepikakolli2004@gmail.com**
 
-🤗 Know about my experiences [Resume](https://drive.google.com/file/d/1RnMxjc89pxw_0eC71UOkkHiKQGAfppjG/view?usp=drive_link)
+🤗 To know more about my experiences, please refer to my [Resume](https://drive.google.com/file/d/1vs_wwpxmSZ_CHaSqt4-Dfk4lgLGHjEn3/view?usp=sharing).
 
 🫶 Fun fact **A One Bug can make me sit Whole Day**
 
