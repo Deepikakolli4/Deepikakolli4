@@ -35,9 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepikakolli4&show_icons=true&locale=en&layout=compact&theme=radical"  alt="Deepika Kolli's Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepikakolli4&theme=radical" alt="Deepika Kolli's GitHub Streak" />
-</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deepikakolli4/Deepikakolli4/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deepikakolli4/Deepikakolli4/output/github-snake.svg" />
