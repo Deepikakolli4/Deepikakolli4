@@ -10,7 +10,7 @@
 - 👨‍💻 **All of my projects:** [My Work](https://deepikakolli4.github.io/My_Projects/)  
 - ✍🏻 **Blogs:** [Medium](https://medium.com/@kollideepika4) – sharing my learning journey  
 - 📫 **Reach me at:** **deepikakolli2004@gmail.com**  
-- 📄 **Know more about me:** [My Resume](https://drive.google.com/file/d/1vs_wwpxmSZ_CHaSqt4-Dfk4lgLGHjEn3/view?usp=sharing)  
+- 📄 **Know more about me:** [My Resume](https://drive.google.com/file/d/1AP-l3zHWORJaaimERDwU9ZW40xWVHJvA/view?usp=drive_link)  
 - 🫶 **Fun fact:** *A single bug can keep me awake until I fix it* 🐞😅  
 
 ---
@@ -32,7 +32,7 @@
 
 ### 🛠️ Tech Stack & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,react,nodejs,expressjs,html,css,tailwindcss,bootstrap,js,mongodb,mysql,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,react,nodejs,expressjs,html,css,tailwindcss,bootstrap,js,mongodb,mysql,figma,vscode" />
 </p>
 
 ---
@@ -58,13 +58,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deepikakolli4/Deepikakolli4/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Deepikakolli4/Deepikakolli4/output/github-snake.svg" />
 </picture>
-
----
-
-### 🎯 Current Goals  
-- 🌟 Contribute more to **Open Source Projects**  
-- 🚀 Build impactful **real-world applications**  
-- 🧠 Improve **Problem-Solving** skills (LeetCode / Codeforces)
 
 ---
 
