@@ -1,81 +1,57 @@
-![MasterHead](https://drive.google.com/uc?export=view&id=1MkTurFGfzZ6wWupKYGsTJ4rjhYLvC3Jq)
+<img src="https://drive.google.com/uc?export=view&id=1MkTurFGfzZ6wWupKYGsTJ4rjhYLvC3Jq" alt="MasterHead" width="100%" />
 
-# 👋 Hi, I'm Deepika Kolli  
-### Full-Stack Developer | Java Programmer | Backend Enthusiast
+
 
 ---
 
-## 🚀 About Me
-I’m a passionate **Full-Stack Developer** who enjoys building scalable, production-ready web applications and solving real-world problems using clean, efficient code.
-
+### 🚀 About Me  
 - 🔭 **Currently working on:** [FlavourFleet](https://github.com/Deepikakolli4/FlavourFleet)  
-- 🌱 **Currently learning:** Advanced Web Development, Backend Architecture & DevOps basics  
-- 👨‍💻 **Projects:** [My Work](https://deepikakolli4.github.io/My_Projects/)  
-- ✍🏻 **Blogs:** [Medium](https://medium.com/@kollideepika4)  
-- 📫 **Reach me at:** deepikakolli2004@gmail.com  
-- 📄 **Resume:** [View Here](https://drive.google.com/file/d/1AP-l3zHWORJaaimERDwU9ZW40xWVHJvA/view)  
-- 🫶 **Fun fact:** One unresolved bug can keep me awake 🐞😅  
+- 🌱 **Learning:** Advanced **Web Development** & Backend Architecture  
+- 👨‍💻 **All of my projects:** [My Work](https://deepikakolli4.github.io/My_Projects/)  
+- ✍🏻 **Blogs:** [Medium](https://medium.com/@kollideepika4) – sharing my learning journey  
+- 📫 **Reach me at:** **deepikakolli2004@gmail.com**  
+- 📄 **Know more about me:** [My Resume]([https://drive.google.com/file/d/1vXu3uLqlPNjk9HqboLcDFzKPyyo9hgwZ/view?usp=sharing])  
+- 🫶 **Fun fact:** *A single bug can keep me awake until I fix it* 🐞😅  
+---
+
+### 🌐 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/deepikakolli4" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Deepika%20Kolli-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="https://medium.com/@kollideepika4" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Blog-black?logo=medium&style=for-the-badge" alt="Medium">
+  </a>
+  <a href="https://www.leetcode.com/kollideepika" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&style=for-the-badge" alt="LeetCode">
+  </a>
+</p>
 
 ---
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepika%20Kolli-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/deepikakolli4)
-[![Medium](https://img.shields.io/badge/Medium-Blog-black?style=for-the-badge&logo=medium)](https://medium.com/@kollideepika4)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://www.leetcode.com/kollideepika)
+### 🛠️ Tech Stack & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,react,nodejs,expressjs,html,css,tailwindcss,bootstrap,js,mongodb,mysql,figma,vscode,typescript,docker,nextjs" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-### 🎨 Frontend
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Tailwind CSS](https://skillicons.dev/icons?i=tailwindcss)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-
-### ⚙️ Backend
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express.js](https://skillicons.dev/icons?i=expressjs)
-![Java](https://skillicons.dev/icons?i=java)
-
-### 🗄️ Databases
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-
-### 🧰 Programming Languages
-![Java](https://skillicons.dev/icons?i=java)
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-
-### 🛠️ Tools, DevOps & Platforms
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Docker](https://skillicons.dev/icons?i=docker)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Figma](https://skillicons.dev/icons?i=figma)
-
-> 💡 I enjoy building end-to-end applications — from responsive UIs with React/Next.js to containerized backend services using Docker.
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepikakolli4&show_icons=true&theme=radical&hide_border=true" alt="Deepika's GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepikakolli4&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepikakolli4&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=deepikakolli4&layout=compact&theme=radical&hide_border=true)
+### 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=deepikakolli4&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies">
+</p>
 
 ---
 
-## 🏆 GitHub Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=deepikakolli4&theme=radical&no-frame=true&margin-w=10)
-
----
-
-## 🐍 GitHub Contribution Snake
+### 🐍 GitHub Contribution Snake  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deepikakolli4/Deepikakolli4/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deepikakolli4/Deepikakolli4/output/github-snake.svg" />
@@ -84,5 +60,7 @@ I’m a passionate **Full-Stack Developer** who enjoys building scalable, produc
 
 ---
 
-### 💌 Let’s Build Something Great Together!
-⭐ If you like my work, consider giving a star to my repositories!
+<p align="center">
+  <b>💌 Let's Build Something Great Together!</b><br>
+  ⭐ If you like my work, consider giving a star to my repositories!
+</p>
