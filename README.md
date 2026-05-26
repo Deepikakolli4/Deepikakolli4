@@ -31,20 +31,21 @@
 
 ### 🛠️ Tech Stack & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,react,nodejs,expressjs,html,css,tailwindcss,bootstrap,js,mongodb,mysql,figma,vscode,typescript,docker,nextjs" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,react,nodejs,expressjs,html,css,tailwindcss,bootstrap,js,mongodb,mysql,figma,vscode,typescript,docker,nextjs,redux" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deepikakolli4&show_icons=true&theme=radical&hide_border=true" alt="Deepika's GitHub Stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepikakolli4&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepikakolli4&theme=radical&hide_border=true" alt="Deepika's Streak" height="170"/>
 </p>
 
 ---
 
-### 🏆 GitHub Achievements  
+### 🏆 GitHub Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=deepikakolli4&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies">
 </p>
