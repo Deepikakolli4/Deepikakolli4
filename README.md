@@ -38,8 +38,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepikakolli4&show_icons=true&theme=radical&hide_border=true" alt="Deepika's GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepikakolli4&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepikakolli4&theme=radical&hide_border=true" alt="Deepika's Streak" height="170"/>
 </p>
 
