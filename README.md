@@ -39,12 +39,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepikakolli4&theme=radical&hide_border=true" alt="Deepika's Streak" height="170"/>
 </p>
 
----
 
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepikakolli4&theme=dracula&no-frame=true&margin-w=15&row=2&column=3" alt="Trophies">
-</p>
 
 ---
 
