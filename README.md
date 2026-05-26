@@ -40,7 +40,7 @@
 
 ### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepikakolli4&theme=radical&no-frame=true&margin-w=15&row=2&column=3" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=deepikakolli4&theme=dracula&no-frame=true&margin-w=15&row=2&column=3" alt="Trophies">
 </p>
 
 ---
