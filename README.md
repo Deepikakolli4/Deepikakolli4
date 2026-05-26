@@ -39,17 +39,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepikakolli4&theme=radical&hide_border=true" alt="Deepika's Streak" height="170"/>
 </p>
 
-
-
----
-
-### 🐍 GitHub Contribution Snake  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deepikakolli4/Deepikakolli4/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deepikakolli4/Deepikakolli4/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Deepikakolli4/Deepikakolli4/output/github-snake.svg" />
-</picture>
-
 ---
 
 <p align="center">
